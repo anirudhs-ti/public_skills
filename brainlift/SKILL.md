@@ -162,21 +162,9 @@ Read the draft (from the argument path or pasted text). Grade it against `refere
 - **The inverted pancake** — DOK4 cards whose receipts live *inside* the cards, with no visible DOK1/DOK2/DOK3 layers. Looks rigorous, and nothing can be checked; unsourced figures survive revision after revision because no reader can trace them.
 - **Understating your own worst result** — reporting a measured harm as merely a null. The strongest negative result in a record is usually its most useful DOK1; softening it costs the document its credibility and its reader a warning.
 
-### Reviewing *with* the author — one decision per artifact
+### Reviewing *with* the author
 
-A full review report is unreviewable. A document carrying every gate card, every demotion and a provenance audit hands the author twenty judgements at once, and the predictable answer is *"big context overload — give me one decision at a time."*
-
-So when a review needs the author's input, **split it into one artifact per decision** and hold the rest until that one closes:
-
-- **One page, one question, ending in named options** (A / B / C) with your recommendation marked. The author replies with a letter.
-- **Show the thing being judged, not a label for it.** "Merge into SPOV 2" is unanswerable if the reader can't remember what SPOV 2 says. Reproduce the spike, its evidence, and — for a merge — **write the merged sentence out in full** so they're judging text, not a proposal.
-- **Concede what you're not contesting, in a footer.** Explicitly mark it as needing nothing from them.
-- **Carry your own strongest counter-argument on the page.** A review that only argues one side is a pitch.
-- **Reverse yourself in writing when they're right.** State that the earlier recommendation was withdrawn and why. Do not quietly re-recommend something else.
-
-**Never use method vocabulary in an author-facing artifact.** DOK1–4, SPOV, "gate 4", G1–G6, "n=2", "σ", "p=0.011" — this is internal scaffolding, and it lands as noise. Say *"teaches the reader nothing"*, not *"fails G4"*. Say *"a 13% chance of being luck"*, not *"p=0.13"*. Give plain-word names to the tests you're applying and put them on the page before you apply them. A glossary of the three or four terms the page depends on goes **above** the first use, and every borrowed term needs a plain-English gloss: *bank* → test set, *recipe* → the fixed training procedure.
-
-Watch for vocabulary borrowed from another field, which drags its old connotation along: **"intervention"** reads as *drug intervention* to anyone outside clinical trials. If a word makes the reader stop, it has already failed — rewrite the sentence rather than defending the term.
+A full review report is unreviewable — every gate card, demotion and audit finding at once is twenty judgements on one page. **Split it: one document per decision, named options, and no method vocabulary** (DOK levels, gate numbers, σ, p-values) on a page the author reads. See the `share-doc` skill, which carries these rules in full.
 
 ## Mode C — Render a BrainLift as a visual field manual
 
